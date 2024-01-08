@@ -2,8 +2,8 @@ import React from 'react';
 
 const BestOffer = () => {
     return (
-        <div className="mx-auto w-full  flex  items-center ">
-            <div className="flex flex-col items-start mr-[70px]">
+        <div className="mx-auto flex  items-center ">
+            <div className="flex flex-col items-start mr-[30px]">
                 <span className="text-[#F00] text-[24px] font-inter font-medium leading-normal">
                     NEW BEST OFFER
                 </span>
@@ -16,7 +16,7 @@ const BestOffer = () => {
             </div>
             <img className=" border-[15px] rounded-[50%] p-[50px] border-[#f00]" src="img/Ellipse 1.png" alt="" />
 
-            <div className="flex flex-col gap-1 items-start max-w-[276px] ml-[118px]">
+            <div className="flex flex-col gap-1 items-start max-w-[276px] ml-[70px]">
                 <span className="text-[#F00] text-[48px] font-inter font-bold leading-normal">
                     2024
                 </span>
